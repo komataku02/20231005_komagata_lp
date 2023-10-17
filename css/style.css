@@ -249,8 +249,11 @@ img {
   }
   
   .news-list {
-    margin-left: 25%;
+    width: 70%;
+    margin-left: 15%;
   }
+
+
 }
 
 @media screen and (max-width:768px) {
